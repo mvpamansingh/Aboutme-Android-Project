@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_topPadding">8dp</dimen>
+    <dimen name="topmargin">16dp</dimen>
+    <dimen name="toppadding">8dp</dimen>
+</resources>
